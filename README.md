@@ -25,5 +25,11 @@
 ![vp funciones de negocio](https://user-images.githubusercontent.com/24967174/41926386-cd415630-7934-11e8-8997-b0f73bb4e903.jpg)
 
 ### Vista Procesos de negocio
+#### Carga documental   
 
+![carga documentos](https://user-images.githubusercontent.com/32855979/41949523-5f7557ca-7987-11e8-865b-3ec5d1339865.png)    
+
+#### Proceso Admisiones    
+
+![Admisiones](https://user-images.githubusercontent.com/32855979/41949619-d3b76678-7987-11e8-9578-8943f5da9076.png)
 
